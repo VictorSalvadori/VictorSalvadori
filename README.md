@@ -14,7 +14,7 @@
         
             <h3>👀 I’m interested in Data analysis, computer science and football/soccer ⚽︎</h3>
 
-            <h3>🧠 I already know html and css</h3>
+            <h3>🧠 I already know python, html and css</h3>
     
             <h3>🌱 I’m currently learning C, C++ and javaScript</h3>
 
