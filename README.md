@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @VictorSalvadori
-- 👀 I’m interested in Data analysis, computer science and hockey 🏒🏒🏒
-- 🌱 I’m currently learning Python and C
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me victorsalvadorimoura@gmail.com
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Me</title>
+</head>
+<body>
+    <section class="header">
 
-<!---
-VictorSalvadori/VictorSalvadori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+        <div class="control">
+            <h1>👋 Hi, I’m Victor Salvadori 😎</h1>
+
+            <img class="me" src="" alt="">
+        
+            <h3>👀 I’m interested in Data analysis, computer science and football/soccer ⚽︎</h3>
+
+            <img class="interests" src="" alt="">
+
+            <h3>🧠 I already know html and css</h3>
+
+            <img class="knoledge" src="" alt="">
+    
+            <h3>🌱 I’m currently learning C, C++ and javaScript</h3>
+
+            <img class="studying" src="" alt="">
+
+            <h3>💞️ I’m looking to collaborate in any project </h3>
+
+            <img class="colab" src="" alt="">
+
+            <h3>📫 How to reach me victorsalvadorimoura@gmail.com</h3>
+
+        </div>
+    </section>
+
+    <p class="text"></p>
+</body>
+</html>
