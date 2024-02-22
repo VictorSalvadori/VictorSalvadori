@@ -21,7 +21,7 @@
     <section class="header">
 
         <div class="control">
-            <h1>👋 Hi, I’m Victor Salvadori 😎</h1>
+            <h1>👋 Hi, I’m Victor Salvadori Moura😎</h1>
 
             <img class="me" src="" alt="">
         
